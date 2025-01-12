@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "garsashs_magic:item/spells/slate",
+    "layer1": "minecraft:item/wind_charge"
+  }
+}
